@@ -2,7 +2,7 @@
 
 I’m not using using it for a whole lot these days, to be honest. I have for the most
 part moved to a self-hosting my own projects with Mercurial
-[here](https://koosah.info/cgi-bin/hgweb.cgi). I'm keeping this GitHub account around
+[here](https://koosah.info/cgi-bin/hgweb.cgi). I’m keeping this GitHub account around
 in case I want to start using it more actively again, or in case I want to contribute
 to a project that is using GitHub, and so that things I already was storing here
 remain here.
